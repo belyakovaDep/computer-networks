@@ -1,0 +1,5 @@
+Day,Month,MinTemp,MaxTemp,WindDirectionAM,WindSpeedAM,WindDirectionPM,WindSpeedPM
+01,Mar,0°C,6°C,SE,2,SE,2-3
+02,Mar,4°C,5°C,E,2,E,2-3
+03,Mar,4°C,5°C,E,2,E,2
+04,Mar,-1°C,5°C,NE,2,NE,2
